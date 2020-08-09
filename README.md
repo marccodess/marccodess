@@ -1,6 +1,6 @@
-### Hi there, I'm Marc ([marccodess][instagram]) 👋
+# Hello, I'm Marc ([marccodess][instagram])! 👋
 
-## I am a Data Scientist currently working in telecommunications!
+## I'm a Data Scientist currently working in the Telecommunication sector!
 - 🙂 4 years experience as a Data Scientist. Experience in the eCommerce, Telecoms and Logistics sectors.
 - 🤓 Current focus area: Deep Learning NLP (Transformers).
 - 📚 Progressing through the #100DaysOfCode challenge (focussing on Web Development).
