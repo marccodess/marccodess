@@ -5,8 +5,8 @@
 - 🤓 Current focus area: NLP (Transformers)
 - 📚 Currently progressing through the #100DaysOfCode challenge. My focus is learning more about Web Development.
 - 🔭 I am currently working on developing my own portfolio using Django.
+- ⚽️ Fun fact: I am a **HUGE** sports fan!
 <!--- - 👨🏻‍💻 I am open to discussing collaboration with other content creators. --->
-- ⚽️ Fun fact: I am a HUGE sports fan!
 
 ### Connect with me:
 
