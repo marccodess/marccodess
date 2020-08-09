@@ -61,6 +61,10 @@
 
 ---
 
+![Marc's github stats](https://github-readme-stats.vercel.app/api?username=marccodess&count_private=true&show_icons=true&hide_border=true)
+[![Marc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marccodess&layout=compact)](https://github.com/marccodess/github-readme-stats)
+
+---
 
 <!--- [website]: https://marccodess.com --->
 [instagram]: https://instagram.com/marccodess
