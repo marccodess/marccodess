@@ -1,10 +1,10 @@
 # Hello, I'm Marc ([marccodess][instagram])! 👋
 
 ## I'm a Data Scientist
-- 🙂  4 years experience as a Data Scientist. Experience in the eCommerce, Telecoms and Logistics sectors.
-- 🤓  Current focus area: Deep Learning NLP (Transformers).
-- 📚  Progressing through the #100DaysOfCode challenge (focussing on Web Development).
-- 🔭  Currently working on developing my own portfolio using Django.
+- 🙂  4 years experience as a Data Scientist in the eCommerce, Telecoms and Logistics sectors.
+- 🤓  Current focus area: NLP.
+- 📚  Completed the #100DaysOfCode challenge on 02/10/2020 (focus on Web Dev).
+- 🔭  Currently working on developing my own portfolio.
 - ⚽️  Fun fact: I am a **HUGE** sports fan!
 <!--- - 👨🏻‍💻 I am open to discussing collaboration with other content creators. --->
 
