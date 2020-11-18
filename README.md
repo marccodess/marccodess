@@ -1,5 +1,5 @@
-# Hello, I'm Marc and I am a Data Scientist 👋
-
+# Hello I'm Marc 👋
+## Data Scientist
 <!--- ## I'm a Data Scientist --->
 <!--- - 🙂  4 years experience as a Data Scientist in the eCommerce, Telecoms and Logistics sectors. --->
 <!--- - 🤓  Current focus area: NLP. --->
