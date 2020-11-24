@@ -6,7 +6,7 @@
 <!--- - 📚  Completed the #100DaysOfCode challenge on 02/10/2020 (focus on Web Dev). --->
 <!--- - 🔭  Currently working on developing my own portfolio. --->
 <!--- - ⚽️  Fun fact: I am a **HUGE** sports fan! --->
-👨🏻‍💻 Open to discuss collaborations.
+<!--- 👨🏻‍💻 Open to discuss collaborations. --->
 
 ### Connect with me:
 
