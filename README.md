@@ -13,7 +13,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marccodess)](https://github.com/marccodess/github-readme-stats)
-![Marc's github stats](https://github-readme-stats.vercel.app/api?username=marccodess&count_private=true&show_icons=true&hide_border=true)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=marccodess&count_private=true)](https://github.com/marccodess/github-readme-stats)
 
 ---
 
