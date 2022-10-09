@@ -1,7 +1,8 @@
 # Hello I'm Marc 👋🏼
 
-- **Current Position:** Data Scientist.
-- **Personal Focus:** Contributing more to open source projects.
+Current working as a Data Scientist in the United Kingdom.
+
+**Current Focus:** Contributing more to open source projects.
 
 ### Social Media 👇🏼
 
