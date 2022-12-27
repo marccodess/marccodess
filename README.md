@@ -1,8 +1,9 @@
-# Hello I'm Marc 👋🏼
+## Hello, I'm Marc 👋🏼
 
-Current working as a Data Scientist in the United Kingdom.
-
-**Current Focus:** Contributing more to open source projects.
+- I am a Data Scientist based in the United Kingdom, with a passion for developing data products. 
+- I enjoy sharing my knowledge and experience through social media, particularly Instagram and Twitter. 
+- I am constantly inspired by the progress and advancements in deep learning, particularly in the field of language modelling. 
+- In my free time, I also enjoy contributing to open source projects.
 
 ### Social Media 👇🏼
 
