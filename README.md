@@ -1,9 +1,9 @@
 ## Hello, I'm Marc 👋🏼
 
-- I am a Data Scientist based in the United Kingdom, with a passion for developing data products. 
+- I'm a Data Scientist based in the United Kingdom, with a passion for developing data products. 
 - I enjoy sharing my knowledge and experience through social media, particularly Instagram and Twitter. 
 - I am constantly inspired by the progress and advancements in deep learning, particularly in the field of language modelling. 
-- In my free time, I also enjoy contributing to open source projects.
+- In my free time, I enjoy contributing to open source projects.
 
 ### Social Media 👇🏼
 
