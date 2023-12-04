@@ -1,7 +1,7 @@
 ## Hello, I'm Marc 👋🏼
 \>> Senior Data Scientist 🧑🏻‍💻 <br />
 \>> Passion for developing data products 🚀 <br />
-\>> Sharing my knowledge and experience through social listed below 👇
+<!--- \>> Sharing my knowledge and experience through social listed below 👇 --->
 
 ### Social Media
 \>> [X](https://twitter.com/marccodess) <br />
