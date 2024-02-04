@@ -1,5 +1,5 @@
 ## Hello, I'm Marc 👋🏼
-\>> Senior Data Scientist 🧑🏻‍💻 <br />
+\>> Lead Data Scientist 🧑🏻‍💻 <br />
 \>> Passion for developing data products 🚀 <br />
 <!--- \>> Sharing my knowledge and experience through social listed below 👇 --->
 
