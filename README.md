@@ -1,6 +1,6 @@
 ## Hello, I'm Marc 👋🏼
 \>> Lead Data Scientist 🧑🏻‍💻 <br />
-\>> Passion for developing data products 🚀 <br />
+\>> Passion for developing data teams and products 🚀 <br />
 <!--- \>> Sharing my knowledge and experience through social listed below 👇 --->
 
 ### Social Media
@@ -19,5 +19,5 @@
 <!--- [x]: https://twitter.com/marccodess--->
 <!--- <br /> --->
 
-### GitHub Statistics
-![Marcs's GitHub stats](https://github-readme-stats.vercel.app/api?username=marccodess&count_private=true&show_icons=true&theme=transparent)
+<!--- ### GitHub Statistics --->
+<!--- ![Marcs's GitHub stats](https://github-readme-stats.vercel.app/api?username=marccodess&count_private=true&show_icons=true&theme=transparent) --->
