@@ -1,12 +1,16 @@
 ## Hello, I'm Marc 👋🏼
-\>> Lead Data Scientist 🧑🏻‍💻 <br />
-\>> Passion for developing data teams and products 🚀 <br />
+\>> Currently working as a Lead Data Scientist<br />
+\>> Passion for developing data teams and products<br />
+\>> Experience working in telecommunication, e-commerce, and logistics sectors<br />
+\>> Open source and technical writing contributor<br />
 <!--- \>> Sharing my knowledge and experience through social listed below 👇 --->
 
 ### Social Media
-\>> [X](https://twitter.com/marccodess) <br />
 \>> [Medium](https://marccodess.medium.com/) <br />
-<!--- \>> [Instagram](https://instagram.com/marccodess) --->
+
+\>> [X](https://twitter.com/marccodess) <br />
+\>> [Threads](https://www.threads.net/@marccodess) <br />
+\>> [Instagram](https://instagram.com/marccodess) <br />
 
 <!--- [<img align="left" alt="marccodess.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]--->
 <!--- [<img align="left" alt="marccodess | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]--->
