@@ -1,7 +1,7 @@
 ## Hello, I'm Marc 👋🏼
 \>> Currently working as a Lead Data Scientist<br />
 \>> Passion for developing data teams and products<br />
-\>> Experience working in telecommunication, e-commerce, and logistics sectors<br />
+\>> Experience working in telecommunications, e-commerce, and logistics<br />
 \>> Open source and technical writing contributor<br />
 <!--- \>> Sharing my knowledge and experience through social listed below 👇 --->
 
