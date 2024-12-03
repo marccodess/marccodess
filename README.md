@@ -7,6 +7,7 @@
 
 ### Social Media
 \>> [Medium](https://marccodess.medium.com/) <br />
+\>> [YouTube](https://www.youtube.com/@marccodess) <br />
 
 \>> [X](https://twitter.com/marccodess) <br />
 \>> [Threads](https://www.threads.net/@marccodess) <br />
